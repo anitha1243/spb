@@ -72,7 +72,7 @@ html {
 /* Hero Section */
 .hero {
     height: 600px;
-    background: linear-gradient(135deg, rgba(139, 0, 0, 0.3) 0%, rgba(196, 30, 58, 0.3) 100%), url('../images/hero.jpg') center/cover no-repeat;
+    background: linear-gradient(135deg, rgba(139, 0, 0, 0.3) 0%, rgba(196, 30, 58, 0.3) 100%), url('images/hero.jpg') center/cover no-repeat;
     background-attachment: fixed;
     color: white;
     display: flex;
